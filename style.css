@@ -94,6 +94,7 @@ li {
     gap: 8px;
 }
 
+
 .text-present { 
     color: #7393B3; 
     font-weight: 400; 
@@ -102,4 +103,14 @@ li {
 .text-absent { 
     color: #F4BB44; 
     font-weight: 400; 
+}
+
+.box-present {
+    background-color: #e8f4fd; 
+    border-color: #1434A4; 
+}
+
+.box-absent {
+    background-color: #fff8e1; 
+    border-color: #FFAA33;
 }
