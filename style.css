@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    font-family: Poppins;
+}
+
+body {
+    background-color: #06402b;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+h1{
+    color: #EEF7EE;
+    font-size: 40px;
+    font-weight: normal;
+}
